@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\pagination",
+    "\\pagination\\pagination",
+    "\\pagination\\pagination\\Configuration",
+    "\\pagination\\pagination\\Configuration\\DefaultRepository",
+    "\\pagination\\pagination\\Data",
+    "\\pagination\\pagination\\Entities",
+    "\\pagination\\pagination\\Extensions",
+    "\\pagination\\pagination\\Migrations",
+    "\\pagination\\pagination\\Repositories"
+  ],
+  "SelectedNode": "\\pagination\\pagination\\pagination.csproj",
+  "PreviewInSolutionExplorer": false
+}
