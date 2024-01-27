@@ -1,6 +1,6 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
-import { CustomerFilter, FilterBy } from 'src/app/models/customer.model';
 import { CustomerService } from 'src/app/services/customer.service';
+import { CustomerFilter, FilterBy } from 'src/app/shared/pagination/base-modal-filter';
 
 @Component({
   selector: 'app-customer',
@@ -127,5 +127,10 @@ export class CustomerComponent implements OnInit {
     this.filterModal.nativeElement.style.display = 'none';
     document.body.classList.remove('modal-open');
     this.isFilterModalOpen = false;
+  }
+
+  removeFilters() {
+    this.filter.filterBy = [];
+    this.fetchData();
   }
 }

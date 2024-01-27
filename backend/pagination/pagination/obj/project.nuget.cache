@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G8eXZvc0hZfS+XjIpgqDKkun3ei8dfxQTokU9xv25Ckme/IdYc124HNB77+SkSQ9h32fOZ9GczLCyQ3NneUZYA==",
+  "dgSpecHash": "Nf/hqqCq0g9jISm+Dz+e08nNlmd4w/3NOMu+98H20IiAg7Jw5+BmKIrCFk4coyseP1Z4NR9lKtYHQv6YKFLEZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pichau\\Desktop\\teste\\backend\\pagination\\pagination\\pagination.csproj",
+  "projectFilePath": "D:\\arquivos\\programation\\workspaceCsharpAngular\\2024\\month-01\\01-project-pagination-best-using-solid\\backend\\pagination\\pagination\\pagination.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pichau\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Pichau\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
